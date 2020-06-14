@@ -2,7 +2,7 @@
 ## COurse 2 : R Programming
 ## Peer Graded Assignment
 ## Atharva Ramgirkar
-## github username : gato1005
+## github username: gato1005
 
 ## This function creates a special "matrix" object that can cache its inverse
 
@@ -41,3 +41,5 @@ cacheSolve <- function(x, ...) {
   x$set.inv(inv.mat)
   inv.mat
 }
+
+## SHA : 
